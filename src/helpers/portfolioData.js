@@ -8,7 +8,7 @@ const portfolioData = [
     link: 'https://helloworldstraveling.netlify.app/',
     desc: 'Planet trip app',
     summary: 'An app that allows you to book trips to different planets',
-    tech: 'React | Typescript | Bootstrap | Node | Express | Mongo DB'
+    tech: 'React | Typescript | Bootstrap | Node | Express | Mongo DB | Docker'
   },
   {
     image: weatherApp,
